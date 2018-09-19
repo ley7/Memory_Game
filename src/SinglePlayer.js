@@ -34,6 +34,8 @@ var gridList = {
 }
 
 var timer = 600 * 1000
+var now = Date.now()
+
 class SinglePlayer extends Component {
   constructor(props) {
     super(props)
@@ -160,7 +162,7 @@ class SinglePlayer extends Component {
         <div style = {bar}>
         <pre>
         <Typography variant="body2">
-          Timer: <Countdown daysInHours = {true} date={Date.now() + timer} onComplete = {() => this.setState({timeOut:true})}/>
+          Timer: <Countdown daysInHours = {true} date={this.props.now + timer} onComplete = {() => this.setState({timeOut:true})}/>
         </Typography>
         </pre>
         </div>

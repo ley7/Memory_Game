@@ -4,8 +4,9 @@ import SinglePlayer from './SinglePlayer';
 class SingleHard extends Component {
 
     render() {
+        var timeNow = Date.now()
         return(
-            <SinglePlayer size = {64} />
+            <SinglePlayer now = {timeNow} size = {64} />
         )
     }
 }
