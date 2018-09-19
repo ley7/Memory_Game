@@ -1,4 +1,4 @@
-run the following commands in command line:</br>
+Run the following commands in command line:</br>
  &emsp;npm install</br>
  &emsp;npm start</br>
 Then the app will be running on http://localhost:3000<br>

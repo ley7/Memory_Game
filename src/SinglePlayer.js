@@ -34,7 +34,6 @@ var gridList = {
 }
 
 var timer = 600 * 1000
-var now = Date.now()
 
 class SinglePlayer extends Component {
   constructor(props) {
