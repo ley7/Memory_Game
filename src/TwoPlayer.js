@@ -125,7 +125,7 @@ class DuoPlayer extends Component {
                 })
               }
               .bind(this),
-              1000
+              800
             );
         })
       }
