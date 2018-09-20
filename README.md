@@ -16,6 +16,7 @@ What I implement:</br>
 
 Game rules:</br>
   &emsp;Single Player:</br>
-  &emsp;&emsp;You will have 10 minutes to finish the game. Each mach will give you 2 points. Your best points will be recorded. If you finish the game in 10 mins, you win. Otherwise, you lose</br>
+  &emsp;&emsp;You will have 10 minutes to finish the game. Each mach will give you 2 points. Your best points will be recorded. If you finish the game in 10 mins, you win. 
+  &emsp;&emsp;Otherwise, you lose</br>
   &emsp;Two Players:</br>
-  &emsp;&emsp;You need to compete with another player. Watch and remember during the other player's turn. When the game is finished, the player with higher scores wins 
+  &emsp;&emsp;You need to compete with another player. Watch and remember during the other player's turn. When the game is finished, the player with higher scores wins</br>
